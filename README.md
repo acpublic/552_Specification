@@ -1,1 +1,1 @@
-# 552_Specification
+## シーケンス図
